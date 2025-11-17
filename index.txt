@@ -1,6 +1,0 @@
-Realms/                  ← GitHub repo root
-│
-├─ index.js              ← server entry point
-├─ package.json          ← Node.js config
-├─ config.json           ← card repo configuration
-└─ repositories/         ← empty, will auto-clone Realm-Of-Kings
