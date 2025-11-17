@@ -1,0 +1,12 @@
+{
+  "name": "Realms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "git clone https://github.com/Hacato/Realm-Of-Kings.git repositories/Realm-Of-Kings"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
