@@ -1,0 +1,31 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Hacato/Realm-Of-Kings.git",
+			"repo_name": "Realm-Of-Kings",
+			"repo_path": "./repositories/Realm-Of-Kings",
+			"has_core": false,
+			"data_path": "",
+			"script_path": "all scripts",
+			"pics_path": "all pics",
+			"expansions_path": "expansions",
+			"should_update": true,
+			"should_read": true
+		}
+	],
+	"urls": [
+		{
+			"url": "default",
+			"type": "pic"
+		},
+		{
+			"url": "./repositories/Realm-Of-Kings/field",
+			"type": "field"
+		},
+		{
+			"url": "default",
+			"type": "cover"
+		}
+	],
+	"servers": []
+}
